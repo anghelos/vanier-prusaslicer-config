@@ -1,7 +1,7 @@
 *.bak
+/snapshots
 /physical_printer
 /shapes
 /sla_material
 /sla_print
-/snapshots
 PrusaSlicerGcodeViewer*
