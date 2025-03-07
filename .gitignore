@@ -2,5 +2,7 @@
 /snapshots
 /physical_printer
 /shapes
+/sla_material
+/sla_print
 /cache
 PrusaSlicerGcodeViewer*
